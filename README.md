@@ -1,2 +1,7 @@
 # YouTube-Downloader
-Copy the youtube link and starting downloading it in device.
+
+Step1: Make sure that the module webbrowser is in your python editor.
+
+Step2: We are using 'cp' in the link to download the file.
+
+Step3: Open python editor and start coding.
